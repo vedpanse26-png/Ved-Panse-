@@ -1,0 +1,9 @@
+{
+  "name": "AI Exam Integrity Monitor",
+  "description": "A professional-grade real-time proctoring dashboard that uses Gemini's multi-modal capabilities to detect and log suspicious exam behavior through video and audio analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
